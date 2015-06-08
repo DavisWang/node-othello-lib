@@ -1,0 +1,23 @@
+{
+  "name": "node-othello-lib",
+  "version": "0.0.0",
+  "description": "Othello logic for node-othello",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavisWang/node-othello-lib.git"
+  },
+  "keywords": [
+    "node",
+    "othello"
+  ],
+  "author": "Davis Wang <davis@daviswang.com> (http://daviswang.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavisWang/node-othello-lib/issues"
+  },
+  "homepage": "https://github.com/DavisWang/node-othello-lib"
+}
