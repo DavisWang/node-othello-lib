@@ -2,4 +2,4 @@
  * Node module fro node-othello
  **/
 
-module.export = require("./src/othello.js");
+module.export = require("./src/othello_factory.js");
